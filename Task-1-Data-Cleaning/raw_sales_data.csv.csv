@@ -1,0 +1,11 @@
+Order_ID,Customer_Name,City,Product,Quantity,Price,Order_Date
+101,rahul sharma,Chennai,Laptop,1,55000,2026-01-05
+102,Priya Nair,mumbai,Mouse,2,500,2026/01/06
+103,Amit Verma,Delhi,Keyboard,,1200,2026-01-07
+102,Priya Nair,mumbai,Mouse,2,500,2026/01/06
+104,SNEHA RAO,Chennai,Monitor,-1,12000,08-01-2026
+105,Karthik K,,Headphones,3,1500,2026-01-09
+106,ananya das,Bangalore,Laptop,1,55000,2026-01-10
+107,Vikram Singh,Delhi,Mouse,4,500,2026-01-11
+107,Vikram Singh,Delhi,Mouse,4,500,2026-01-11
+108,Meera Joshi,Chennai,Keyboard,2,,2026-01-12
